@@ -1,6 +1,6 @@
 # simple_stock_market
 ## To Start
-1. In a terminal, navigate to stock-market(Reactjs) folder
+1. In a terminal, navigate to this repository
 2. Run `npm  install`
 3. Run `npm  start`
 4. Open a web browser 
